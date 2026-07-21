@@ -6,7 +6,7 @@ each thread means for your projects, and renders everything you're working
 on, negotiating, waiting on, and owed — with zero manual upkeep. Open it,
 see your day, close it.
 
-Built by [Doza Visuals](https://www.dozavisuals.com).
+Built by [Doza Visuals](https://doza.ai).
 
 ![Doza Production Desk](docs/demo.png)
 
