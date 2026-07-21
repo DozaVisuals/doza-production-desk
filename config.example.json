@@ -1,0 +1,9 @@
+{
+  "owner_name": "Alex Doe",
+  "studio_name": "Alex Doe Films",
+  "owner_bio": "a solo documentary-style photo and video studio serving institutional and commercial clients",
+  "signature": "Alex",
+  "home_lat": 42.3601,
+  "home_lon": -71.0589,
+  "api_user_agent": "production-desk (you@example.com)"
+}
